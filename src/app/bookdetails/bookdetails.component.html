@@ -1,0 +1,17 @@
+<div [ngSwitch]="Genre()">
+    <div *ngSwitchCase="'Classics'">
+        <b>{{getClassicBooks().title}}</b>
+    </div>
+    <div *ngSwitchCase="'Fiction'">
+        <b>{{getFictionBooks().title}}</b>
+    </div>
+    <div *ngSwitchCase="'History'">
+        <b>{{getHistoryBooks().title}}</b>
+    </div>
+    <div *ngSwitchCase="'Kids'">
+        <b>{{getKidsBooks().title}}</b>
+    </div>
+    <div *ngSwitchCase="'Philosophy'">
+        <b>{{getPhilosophyBooks().title}}</b>
+    </div>
+</div>

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "The Godfather",
+        "author": "Mario Puzo",
+        "genre": "Fiction",
+        "description": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+        "price": 350,
+        "availability": true,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": true
+    },
+    {
+        "id": 2,
+        "title": "The Interpretation of Murder",
+        "author": "Jed Rubenfield",
+        "genre": "Fiction",
+        "description": "Inspired by Sigmund Freud’s only visit to America, The Interpretation of Murder is an intricate tale of murder and the mind’s most dangerous mysteries.",
+        "price": 280,
+        "availability": true,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": false
+    },
+    {
+        "id": 3,
+        "title": "The girl with the dragon tattoo",
+        "author": "Stieg Larsson",
+        "genre": "Fiction",
+        "description": "The Girl with the Dragon Tattoo is a psychological thriller novel by Swedish author and journalist Stieg Larsson.",
+        "price": 440,
+        "availability": false,
+        "stock": 5,
+        "discount": 3,
+        "rentalAvailability": true
+    },
+    {
+        "id": 4,
+        "title": "To kill a mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "description": "To Kill a Mockingbird is a novel by the American author Harper Lee. It was published in 1960 and was instantly successful. In the United States, it is widely read in high schools and middle schools. ",
+        "price": 750,
+        "availability": true,
+        "stock": 5,
+        "discount": 5,
+        "rentalAvailability": true
+    }
+]

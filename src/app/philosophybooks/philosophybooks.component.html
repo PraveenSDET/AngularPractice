@@ -1,0 +1,7 @@
+<h3 style="text-align: left">Philosophical Books</h3>
+<ul>
+    <li *ngFor="let book of philosophyBooks">
+        <span (click)="onSelect(book)"><b>{{book.title}}</b></span>
+        <p>{{book.description}}</p>
+    </li>
+</ul>

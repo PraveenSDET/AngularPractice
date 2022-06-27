@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "The Famous Five: Five on a Treasure Island",
+        "author": "Enid Blyton",
+        "genre": "Kids",
+        "description": "There's a shipwreck off Kirrin Island! But where is the treasure? The Famous Five are on the trail - looking for clues - but they're not alone! Someone else has got the same idea. Time is running out for the Famous Five, who will follow the clues and get to the treasure first?",
+        "price": 250,
+        "availability": true,
+        "stock": 5,
+        "discount": 1,
+        "rentalAvailability": true
+    },
+    {
+        "id": 2,
+        "title": "The Famous Five: Five go adventuring again",
+        "author": "Enid Blyton",
+        "genre": "Kids",
+        "description": "There's a thief at Kirrin Cottage! The Famous Five think they know who it is, but they need to prove it! Where can they find evidence? The discovery of an old map and very unusual hiding place is all they need to get to the bottom of this mystery and uncover the true culprit!",
+        "price": 250,
+        "availability": true,
+        "stock": 5,
+        "discount": 1,
+        "rentalAvailability": true
+    },
+    {
+        "id": 3,
+        "title": "The Secret Seven - On the Trail",
+        "author": "Enid Blyton",
+        "genre": "Kids",
+        "description": "Is something mysterious happening at Tigger's Barn? Peter thinks it's a hoax. Then Jack overhears an extraordinary conversation which leads the Seven on a trail of adventure.",
+        "price": 300,
+        "availability": true,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": true
+    },
+    {
+        "id": 4,
+        "title": "Hardy Boys: The shore road mystery",
+        "author": "Franklin W. Dixon",
+        "genre": "Kids",
+        "description": "The Hardy boys agree to help a friend and his father find a family treasure. When the friends disappear, the sleuths find themselves faced with two mysteries.",
+        "price": 350,
+        "availability": true,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": false
+    }
+]

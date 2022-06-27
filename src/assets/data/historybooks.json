@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "The Campaigns of Napolean",
+        "author": "David G. Chandler",
+        "genre": "History",
+        "description": "The Campaigns of Napoleon is a masterful analysis and insightful critique of Napoleon's art of war as he himself developed and perfected it in the major military campaigns of his career.",
+        "price": 3500,
+        "availability": false,
+        "stock": 5,
+        "discount": 6,
+        "rentalAvailability": true
+    },
+    {
+        "id": 2,
+        "title": "The History of the World",
+        "author": "JM Roberts",
+        "genre": "History",
+        "description": "J.M. Roberts's renowned History of the World is widely considered the finest available one-volume survey of the major events, developments, and personalities of the known past, offering generations of readers a tour of the vast landscape of human history.",
+        "price": 1800,
+        "availability": true,
+        "stock": 5,
+        "discount": 3,
+        "rentalAvailability": true
+    },
+    {
+        "id": 3,
+        "title": "History of Medeival India",
+        "author": "Chandra Satish",
+        "genre": "History",
+        "description": "History of Medieval India is a comprehensive overview of the history of the Indian subcontinent during the thousand-year period between the eighth and the eighteenth century.",
+        "price": 170,
+        "availability": true,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": false
+    },
+    {
+        "id": 4,
+        "title": "The Empire of the Great Mughals",
+        "author": "Annemarie Schimmel",
+        "genre": "History",
+        "description": "This book describes the political, military and economic rise of the Mughals, their system of rule, the incredible unfolding of their power and splendour, and their gradual collapse, finally supplanted by the British colonial empire in 1857.",
+        "price": 1500,
+        "availability": true,
+        "stock": 5,
+        "discount": 5,
+        "rentalAvailability": true
+    }
+]

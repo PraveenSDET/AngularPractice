@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "The Republic",
+        "author": "Plato",
+        "genre": "Philosophy",
+        "description": "The Republic is a philosophical dialogue about the nature of justice and the order and character of the just city-state and the just individual.",
+        "price": 480,
+        "availability": true,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": true
+    },
+    {
+        "id": 2,
+        "title": "The Analects",
+        "author": "The Analects are a collection of Confucius’s sayings brought together by his pupils shortly after his death in 497 BC. Together they express a philosophy, or a moral code, by which Confucius, one of the most humane thinkers of all time, believed everyone should live.",
+        "genre": "Philosophy",
+        "description": "",
+        "price": 500,
+        "availability": false,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": false
+    },
+    {
+        "id": 3,
+        "title": "Beyond Good and Evil",
+        "author": "Friedrich Nietzsche",
+        "genre": "Philosophy",
+        "description": "Beyond Good and Evil: Prelude to a Philosophy of the Future is a book by philosopher Friedrich Nietzsche that covers ideas in his previous work Thus Spoke Zarathustra but with a more polemical approach.",
+        "price": 800,
+        "availability": true,
+        "stock": 5,
+        "discount": 4,
+        "rentalAvailability": true
+    },
+    {
+        "id": 4,
+        "title": "Justice: What's the right thing to do?",
+        "author": "Michael J. Sandal",
+        "genre": "Philosophy",
+        "description": "Justice: What's the Right Thing to Do? is a 2009 book on political philosophy.",
+        "price": 380,
+        "availability": true,
+        "stock": 5,
+        "discount": 0,
+        "rentalAvailability": true
+    }
+]
